@@ -4,5 +4,9 @@ body {
 
 .jumbotron {
   margin-top: 15px;
-  
+
+}
+
+th {
+  text-align: center;
 }
